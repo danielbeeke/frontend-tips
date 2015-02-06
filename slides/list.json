@@ -16,6 +16,11 @@
     "entities.html",
     {
         "attr": {
+            "data-background": "img/entity.jpg"
+        }
+    },
+    {
+        "attr": {
             "data-background": "img/node.jpg"
         }
     },
@@ -46,6 +51,16 @@
             "data-background": "img/menu.png"
         }
     },
+    {
+        "attr": {
+            "data-background": "img/menulinks.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/slider.png"
+        }
+    },
     "entities-viewmodes-html-3.html",
     "display-suite-2.html",
     "display-suite-3.html",
@@ -66,6 +81,12 @@
     {
         "attr": {
             "data-background": "img/sass.png"
+        }
+    },
+    "smacss.html",
+    {
+        "attr": {
+            "data-background": "img/smacss.png"
         }
     },
     "asymmetrische-grids.html",
@@ -94,22 +115,18 @@
             "data-background": "img/grid5.png"
         }
     },
+    "bundler.html",
+    {
+        "attr": {
+            "data-background": "img/gemfile.png"
+        }
+    },
     "autoprefixer.html",
     {
         "attr": {
             "data-background": "img/autoprefixer.png"
         }
     },
-    "smacss.html",
-    {
-        "attr": {
-            "data-background": "img/smacss.png"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "img/sass.png"
-        }
-    },
-    "bundler.html"
+    "grunt-gulp.html",
+    "bedankt.html"
 ]
