@@ -1,0 +1,115 @@
+[
+    "index.md",
+    "introductie.html",
+    "structuur.html",
+    {
+        "attr": {
+            "data-background": "img/monsters.jpg"
+        }
+    },
+    "hoe-houden-we-die-monsters-in-toom.html",
+    {
+        "attr": {
+            "data-background": "img/structuur.jpg"
+        }
+    },
+    "entities.html",
+    {
+        "attr": {
+            "data-background": "img/node.jpg"
+        }
+    },
+    "entities-viewmodes-html-4.html",
+    {
+        "attr": {
+            "data-background": "img/viewmodes2.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmodes.jpg"
+        }
+    },
+    "entities-viewmodes-html.html",
+    {
+        "attr": {
+            "data-background": "img/json.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/json1.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/menu.png"
+        }
+    },
+    "entities-viewmodes-html-3.html",
+    "display-suite-2.html",
+    "display-suite-3.html",
+    "display-suite.html",
+    "preprocessors.html",
+    {
+        "attr": {
+            "data-background": "img/preprocess.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/preprocess2.png"
+        }
+    },
+    "sass.html",
+    "sass-2.html",
+    {
+        "attr": {
+            "data-background": "img/sass.png"
+        }
+    },
+    "asymmetrische-grids.html",
+    {
+        "attr": {
+            "data-background": "img/grid.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid3.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid2.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid4.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/grid5.png"
+        }
+    },
+    "autoprefixer.html",
+    {
+        "attr": {
+            "data-background": "img/autoprefixer.png"
+        }
+    },
+    "smacss.html",
+    {
+        "attr": {
+            "data-background": "img/smacss.png"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/sass.png"
+        }
+    },
+    "bundler.html"
+]
