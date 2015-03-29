@@ -8,6 +8,7 @@
         }
     },
     "hoe-houden-we-die-monsters-in-toom.html",
+    "hoe-houden-we-die-monsters-in-toom1.html",
     {
         "attr": {
             "data-background": "img/structuur.jpg"
@@ -16,66 +17,95 @@
     "entities.html",
     {
         "attr": {
-            "data-background": "img/entity.jpg"
+            "data-background": "img/entitytype.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/node.jpg"
+            "data-background": "img/manage-fields.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/create-page.png",
+            "data-background-size": "contain"
         }
     },
     "entities-viewmodes-html-4.html",
     {
         "attr": {
-            "data-background": "img/viewmodes2.jpg"
+            "data-background": "img/viewmodes-config.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/viewmodes.jpg"
+            "data-background": "img/viewmode-conf.png",
+            "data-background-size": "contain"
         }
     },
+    {
+        "attr": {
+            "data-background": "img/viewmode-full.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/viewmode-full-highlight.png",
+            "data-background-size": "contain"
+        }
+    },
+    "hoe-houden-we-die-monsters-in-toom2.html",
     "entities-viewmodes-html.html",
     {
         "attr": {
-            "data-background": "img/json.png"
+            "data-background": "img/viewmode-menuitem.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/json1.png"
+            "data-background": "img/viewmode-menuitem-highlight.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/menu.png"
+            "data-background": "img/viewmodes.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/menulinks.png"
+            "data-background": "img/viewmodes-highlight.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
-            "data-background": "img/slider.png"
+            "data-background": "img/json-manage.png",
+            "data-background-size": "contain"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/json.png",
+            "data-background-size": "contain"
         }
     },
     "entities-viewmodes-html-3.html",
+    "hoe-houden-we-die-monsters-in-toom3.html",
     "display-suite-2.html",
+    "markup.html",
     "display-suite-3.html",
     "display-suite.html",
     "preprocessors.html",
-    {
-        "attr": {
-            "data-background": "img/preprocess.png"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "img/preprocess2.png"
-        }
-    },
+    "preprocess-html.html",
+    "preprocess-html2.html",
+    "hoe-houden-we-die-monsters-in-toom4.html",
     "sass.html",
     "sass-2.html",
     {
