@@ -9,11 +9,6 @@
     },
     "hoe-houden-we-die-monsters-in-toom.html",
     "hoe-houden-we-die-monsters-in-toom1.html",
-    {
-        "attr": {
-            "data-background": "img/structuur.jpg"
-        }
-    },
     "entities.html",
     {
         "attr": {
@@ -110,51 +105,58 @@
     "sass-2.html",
     {
         "attr": {
-            "data-background": "img/sass.png"
+            "data-background": "img/sass-folder.png",
+            "data-background-size": "contain"
         }
     },
     "smacss.html",
+    "autoprefixer.html",
     {
         "attr": {
-            "data-background": "img/smacss.png"
+            "data-background": "img/autoprefixer.png",
+            "data-background-size": "contain"
         }
     },
     "asymmetrische-grids.html",
     {
         "attr": {
-            "data-background": "img/grid.png"
+            "data-background": "img/grid.png",
+            "data-background-size": "contain"
+
         }
     },
     {
         "attr": {
-            "data-background": "img/grid3.png"
+            "data-background": "img/grid3.png",
+            "data-background-size": "contain"
+
         }
     },
     {
         "attr": {
-            "data-background": "img/grid2.png"
+            "data-background": "img/grid2.png",
+            "data-background-size": "contain"
+
         }
     },
     {
         "attr": {
-            "data-background": "img/grid4.png"
+            "data-background": "img/grid4.png",
+            "data-background-size": "contain"
+
         }
     },
     {
         "attr": {
-            "data-background": "img/grid5.png"
+            "data-background": "img/grid5.png",
+            "data-background-size": "contain"
+
         }
     },
     "bundler.html",
     {
         "attr": {
             "data-background": "img/gemfile.png"
-        }
-    },
-    "autoprefixer.html",
-    {
-        "attr": {
-            "data-background": "img/autoprefixer.png"
         }
     },
     "grunt-gulp.html",

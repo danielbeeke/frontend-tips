@@ -1,10 +1,22 @@
-<em>Schone css</em>
+<em class="active">Schone css</em>
 <br>
 <br>
 <h2>Sass</h2>
 
-<ul>
-<li>Wat denk jij?</li>
-  <li>@extend?</li>
-  <li>Max nesting level?</li>
-</ul>
+<pre><code class="sass">
+@each $color_item in $colors {
+  $class: nth($color-item, 1);
+  $color: nth($color-item, 2);
+  $text: nth($color-item, 3);
+
+  .button.#{$class}:not(.ghost) {
+    background: $color;
+    color: $text;
+
+    &:hover {
+      background: highlight-color($color);
+      color: $text;
+    }
+  }
+}
+  </code></pre>
