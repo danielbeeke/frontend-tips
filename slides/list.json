@@ -97,6 +97,12 @@
     "markup.html",
     "display-suite-3.html",
     "display-suite.html",
+    {
+        "filename": "voordeel-1.html",
+        "attr": {
+            "data-background": "#2a5304"
+        }
+    },
     "preprocessors.html",
     "preprocess-html.html",
     "preprocess-html2.html",
@@ -154,11 +160,6 @@
         }
     },
     "bundler.html",
-    {
-        "attr": {
-            "data-background": "img/gemfile.png"
-        }
-    },
     "grunt-gulp.html",
     "bedankt.html"
 ]
