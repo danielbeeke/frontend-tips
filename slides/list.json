@@ -97,6 +97,18 @@
     "markup.html",
     "display-suite-3.html",
     "display-suite.html",
+    {
+        "filename": "voordeel-1.html",
+        "attr": {
+            "data-background": "#2a5304"
+        }
+    },
+    {
+        "filename": "dont-2.html",
+        "attr": {
+            "data-background": "#5f0000"
+        }
+    },
     "preprocessors.html",
     "preprocess-html.html",
     "preprocess-html2.html",
@@ -109,12 +121,24 @@
             "data-background-size": "contain"
         }
     },
+    {
+        "filename": "dont-1.html",
+        "attr": {
+            "data-background": "#5f0000"
+        }
+    },
     "smacss.html",
     "autoprefixer.html",
     {
         "attr": {
             "data-background": "img/autoprefixer.png",
             "data-background-size": "contain"
+        }
+    },
+    {
+        "filename": "voordeel-2.html",
+        "attr": {
+            "data-background": "#2a5304"
         }
     },
     "asymmetrische-grids.html",
@@ -153,12 +177,35 @@
 
         }
     },
-    "bundler.html",
     {
+        "filename": "voordeel-3.html",
         "attr": {
-            "data-background": "img/gemfile.png"
+            "data-background": "#2a5304"
         }
     },
+    "multi-span.html",
+    {
+        "attr": {
+            "data-background": "img/moso-1.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/moso-2.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/moso-3.png",
+            "data-background-size": "contain"
+
+        }
+    },
+    "bundler.html",
     "grunt-gulp.html",
     "bedankt.html"
 ]
